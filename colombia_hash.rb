@@ -161,7 +161,9 @@ COLOMBIA = {
 		"Soledad",
 		"Suan",
 		"Tubara",
-		"Usiacuri",
+		"Usiacuri"
+  ],
+  :"Bolivar" => [
 		"Cartagena",
 		"Achi",
 		"Altos del Rosario",
